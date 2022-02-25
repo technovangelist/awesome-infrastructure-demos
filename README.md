@@ -11,6 +11,8 @@ Below this section is a list of collections of great demos. This list is of spec
 - 
 ## Awesome Collections of Demos
 - **[Azure Samples](https://github.com/orgs/Azure-Samples/repositories)** - Microsoft's collection of sample apps to run on Azure. Nothing stopping you from applying these to some other platform too.
+- **[AWS Examples](https://github.com/aws-samples)** - AWS examples
 - **[Confluent Demo Scene](https://github.com/confluentinc/demo-scene)** - Confluent, the company behind Kafka, has put together a huge collection of demos that highlight Kafka with other tools.
+- **[Docker Sample Apps](https://github.com/docker/labs)** - Docker's collection of sample apps
 - **[Elastic Examples](https://github.com/elastic/examples)** - Sample apps that use Elasticsearch
 - **[Kubernetes Examples](https://github.com/kubernetes/examples)** - The official Kubernetes examples repo
