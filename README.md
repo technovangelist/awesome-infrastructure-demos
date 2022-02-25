@@ -6,6 +6,7 @@ This project was created by an evangelist at a software company for all other so
 ## Specific demo apps that are super useful
 Below this section is a list of collections of great demos. This list is of specific demo apps that folks have found to be super useful.
 - **[AKS Voting App](https://github.com/Azure-Samples/aks-voting-app)** - Designed to use on Azure AKS but can pretty easily be used on Docker and Kubernetes. 3 containers (app, analytics, and storage) that leverage MySQL, and NodeJS with Express
+- **[Datadog Ecommerce Workshop](https://github.com/DataDog/ecommerce-workshop)** - This is the example that is used throughout a lot of the training courses and demos used by the Evangelism team at Datadog.
 - **[PartsUnlimited](https://github.com/microsoft/PartsUnlimited)** - Classic .Net Core and SQL Azure app
 - 
 ## Awesome Collections of Demos
